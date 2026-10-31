@@ -2,5 +2,19 @@
 @media(max-width:900px){.site-nav{gap:14px}.site-nav a{font-size:.72rem}.hero-grid{gap:35px}.team-grid{grid-template-columns:repeat(3,1fr)}.appointment-grid{gap:45px}.contact-grid{gap:25px}}
 @media(max-width:720px){.container{width:min(100% - 32px,560px)}.nav-wrap{min-height:70px;gap:12px}.menu-toggle{display:block;margin-left:auto}.site-nav{display:none;position:absolute;top:70px;left:0;right:0;background:var(--paper);border-bottom:1px solid var(--line);padding:16px;flex-direction:column;align-items:stretch;gap:3px;box-shadow:0 10px 20px #17201f10}.site-nav.open{display:flex}.site-nav a{padding:10px}.nav-cta{text-align:center}.language-switcher{order:3}.hero{padding:58px 0 70px}.hero-grid,.split-grid,.org-grid,.appointment-grid,.contact-grid{grid-template-columns:1fr}.hero-visual{margin:20px 18px 0}.photo-placeholder{height:350px}.floating-card{left:-15px;bottom:25px}.offering-grid,.about-cards{grid-template-columns:1fr;gap:15px}.offering-grid article{padding-left:15px}.section{padding:75px 0}.section-heading{display:block;margin-bottom:35px}.section-heading>p{margin-top:20px}.about-cards{margin-top:35px}.about-card{min-height:190px}.team-grid{grid-template-columns:repeat(2,1fr);gap:12px}.portrait-placeholder{height:130px}.team-card{padding:12px}.team-card h3{font-size:.9rem}.appointment-grid{gap:45px}.contact-grid{gap:30px}.footer-wrap{display:grid;gap:12px}.footer-wrap small{margin-left:0}.footer-wrap p{display:none}summary{grid-template-columns:42px 1fr 24px}summary strong{font-size:1.1rem}.details-content{padding-left:42px}.hero h1{font-size:3.1rem}}
 @media(max-width:390px){.language-button{font-size:.7rem}.brand small{display:none}.team-grid{grid-template-columns:1fr}.hero h1{font-size:2.7rem}}
+.brand-art{height:470px;border-radius:160px 160px 20px 20px;display:grid;place-items:center;position:relative;overflow:hidden}
+.brand-logo{display:block;width:150px;height:auto;object-fit:contain}
+.brand-logo-light{mix-blend-mode:multiply}
+.brand-logo-dark{width:150px}
+.hero-brand-art{background:linear-gradient(145deg,#f52b20,#ff9d16);justify-items:center}
+.hero-brand-art:before,.hero-brand-art .placeholder-cross{display:none}
+.hero-brand-art img{width:78%;height:auto;max-height:78%;object-fit:contain;mix-blend-mode:multiply}
+.about-card-photo{overflow:hidden}
+.about-card-photo img{width:100%;height:160px;object-fit:contain;mix-blend-mode:multiply}
+.portrait-art{height:160px;overflow:hidden;padding:0;background:#f7f7f7;border-radius:8px;display:grid;place-items:center;margin-bottom:17px}
+.portrait-art img{width:100%;height:100%;object-fit:cover;mix-blend-mode:multiply}
+.team-card:nth-child(3n) .portrait-art{background:#fff5e0}
+footer{background:var(--dark);border-top-color:var(--dark);color:#fff}
+.footer-wrap p,.footer-wrap small{color:#bbcac4}
 .mobile-cta{color:var(--ink);font-size:.8rem}
-@media(max-width:720px){.mobile-cta{display:block}.menu-toggle{margin-left:auto}}
+@media(max-width:720px){.mobile-cta{display:block}.menu-toggle{margin-left:auto}.brand-art{height:350px}.portrait-art{height:130px}}

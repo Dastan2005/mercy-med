@@ -1,0 +1,245 @@
+2
+
+ABOUT US
+
+- Private medical centre in Bishkek
+
+- providing high-quality medical care
+- based on modern medical knowledge
+and international experience
+
+OUR CLINIC
+MOBILE CLINICS
+
+HISTORY
+
+For over 10 years, we have
+been conducting medical
+consultations in various
+regions
+
+The clinic in Bishkek
+opened in October 2023 to
+continue and expand
+ministry
+
+LOCATION
+
+SERVICES
+
+Tunguch microdistrict, near
+Ayu Grand
+
+Consultations, medical
+procedure, ultrasound,
+laboratory testing
+
+OUR TEAM
+
+MAHABAT ALIEVA
+
+JONATHAN WILLIAMS
+
+IRINA PAK
+
+NASYIKAT DONONBAEVA
+
+DIRECTOR / DOULA
+
+CHIEF DOCTOR /
+PEDIATRICS
+
+PEDIATRICS / FAMILY
+MEDICINE
+
+INTERNAL MEDICINE /
+PULMONOLOGY
+
+NABAT GASIMOVA
+
+NANCY YAU
+
+LUKAS
+MEYER-LANDHOLT
+
+MADISON SMITH
+
+PEDIATRIC /
+INTENSIVIST
+
+PEDIATRICS
+
+PEDIATRICS /
+ONCOLOGY
+
+SIMBAT
+SADYRBAEVA
+
+NARGIZA
+ISLAMOVA
+
+GYNECOLOGY
+
+ULTRASOUND
+
+PHYSICAL THERAPIST
+
+HOW WE
+WORK
+
+FAMILY-ORIENTED
+
+EVIDENCE-BASED
+MEDICINE
+
+Adults, children, teenagers,
+pregnant patients all can be seen
+in one place
+
+We follow evidence-based
+methods to diagnose and treat all
+of our patients
+
+EXPERIENCED LOCAL AND
+INTERNATIONAL
+SPECIALISTS
+
+TRAINING AND SKILL
+DEVELOPMENT
+
+Family medicine, Pediatrics,
+Gynecology, Pulmonology, and
+Ultrasound
+
+We provide training for doctors
+and medical students
+
+WHAT CAN WE
+OFFER?
+DAILY CONSULTATIONS AT OUR CLINIC
+CONSULTATIONS AND REPORTS IN
+VARIOUS LANGUAGES
+Kyrgyz, Russian, English, Chinese, German, French
+
+PREVENTATIVE CHECK-UPS
+Growth and development, vision screening, EKG,
+screening for anemia and diabetes, laboratory tests
+
+REQUIRED MEDICAL DOCUMENTS AND
+CERTIFICATES
+For schools, flying, travel/tourism, employment,
+insurance
+
+ADDITIONAL
+SERVICES
+Ultrasound
+EKG
+Vision testing
+Audiometry
+In-house laboratory (with 30% discount
+on all tests)
+Birth preparation courses by our certified
+Doula
+
+8
+
+Website requirements
+Nr 1 purpose: get more patients into the door
+- being visible and ﬁndable
+- easily booking an appointment
+
+secondary purpose:
+- provide information about the clinic and the work we do, especially for
+organisations looking to partner with us
+
+9
+
+Website requirements - Target customer
+1) potential patients - people with a medical complaint looking for a doctor.
+Locals, tourists/travellers, expats residing in Bishkek
+2) organisations (schools, companies, embassies) looking for a clinic to
+collaborate with for regular medical examinations (we offer yearly
+staff-checkups, special deals for students etc)
+3) Hospitals, medical schools and residents and students: to collaborate
+with us in training residents and medical students.
+
+10
+
+Website requirements - Target customer
+Demographic - locals and expats.
+Age - probably more middle-aged and above, as
+younger ppl use instagram.
+Income-level: middle-class and higher due to our pricing.
+Interest - in medical services.
+Comfort level with technology - low-medium.
+Languages - english, kyrgyz and russian
+11
+
+Website requirements - unique offering
+Evidence-based and international medicine.
+Care for the whole family in one place, no need for expensive specialist
+consultations.
+We try to limit unnecessary additional investigations.
+Charitable heart of the clinic - mobile clinics in the regions.
+
+12
+
+Website requirements - design
+- Professional. Informative. Uncluttered.
+Color preferences: light background. Main colour would be yellow-orange
+(as in the logo). Secondary color grey (also as in logo)
+
+Real photographs, not AI generated images
+
+13
+
+Website requirements - competitors and top 3
+eldikfmc.com + approachable medical information (directed at you). - landing
+page too much text, quite cluttered, not up to date (many of the pictures are
+very old), no information on the team or history
+greenlukas.uz + info on team with pictures. Feels less overwhelming at ﬁrst
+site. - unclear if hospital or clinic? Several names (green lukas vs lukas clinic vs
+all friendship hospital - what is it)? In total very little info on site, and what is is
+quite confusing.
+malish.kg + informative, including history and FAQ section. possibility to book
+consultation online - services section overwhelming
+14
+
+Website requirements - main sections
+Home - tagline, buttons to book consultation and further discover website.
+Maybe insta feed.
+About - brief overview, history, what we bring to KG
+Medical Services - consultations, labs etc
+For corporate clients
+For international patients
+Team - short bio of team members (not only doctors)
+?online booking
+Medical education
+Mobile clinics/charitable work
+Contact
+15
+
+Website requirements - special requirements
+Instagram feed
+If possible to explore online booking system and how complicated that
+would be. Ideas -> form sends WA message to receptionist vs integration
+with openEMR
+Easy way to keep it up to date - team changes, price changes, new photos
+etc
+
+16
+
+Website requirements - technical details
+MercyMed has the domain: mercymed.kg
+MercyMed has a rented server in Germany
+The server has Apache, PHP and MySQL for Open-EMR
+Also postﬁx for SMTP and Dovecot for IMAP
+DNS is Hurricane’s fee DNS
+
+17
+
+18
+
+19
+
+

@@ -1,0 +1,395 @@
+# Diarized Transcript — MercyMed Lukas - AUCA.m4a
+
+- **Duration:** 01:29:11
+- **Speakers:** FuMing (23.3 min), Dr. Lukas (43.5 min), Student (7.1 min)
+- **Models:** mlx-community/whisper-large-v3-turbo + pyannote-segmentation-3.0 / nemo_en_titanet_small
+
+**[00:00:10] FuMing:** Hi again everyone. Again, I'm very excited to have Dr. Lukas. What's your family name?
+
+**[00:00:18] Dr. Lukas:** Mayor Landolt, but Lukas is fine. Okay, I don't even know if I could pronounce that. But
+
+**[00:00:22] FuMing:** yeah, so as I mentioned, we have not met in person before. I just found out that Lucas is from Switzerland. And I was just telling him that, yeah, like on Sunday, I went to Erkendig Park. I don't know how many of you know, but currently the Swiss Orchestra is visiting Bishke. And there was a parade. So yeah, it was really nice. like they were all dressed up in their uniform and they were marching you know down Eukendik and yeah it was just a beautiful day the weather was nice there were a lot of families and you know we got to hear you know the Swiss Orchestra and apparently they're still here and you know there will be a performance tomorrow at the National Opera and Ballet or the theater opera and ballet theater. So for those of you who are interested. But anyways, why don't you please welcome, help me in welcoming Lucas and then I'll allow him to introduce himself. He's going to, as I mentioned, give an overview of the vision for the website and then allow you guys an opportunity to ask any specific questions that you might have. Oh, maybe beforehand, And if you guys want to sit in your groups, because I think that, you know, during the Q&A, like as questions are being asked, as a team, you might want to discuss with one another, like, oh, okay, our top questions have all been asked. So you guys can prioritize which questions, you know, you really want to, you know, give him the opportunity to answer. So can you guys just take a minute to just sit together with your teams? And then, yeah, and then I'll just, yeah, give you the floor and allow you to introduce yourself and also, yeah, the medical center and the website. Yeah.
+
+**[00:02:51] FuMing:** Yeah, and just to let you know, in terms of this class, it's actually quite diverse. There's like sophomores, juniors, and seniors. I don't think any of you are first year, right? No first year students, but definitely second, third and fourth year. So it's a kind of a good mixture of all of them. All right, so let's go ahead and get started. Cool.
+
+**[00:03:13] Dr. Lukas:** Yeah, thank you, Fu Ming. Thank you, everybody, for having me. As you mentioned, my name is Lucas. I am from Switzerland. You've already heard that as well. We've been living in Bishkek for two and a half years. I've been working at this clinic, MercyMed, for a bit over a year now. I'm myself a pediatrician, so a doctor, a children's doctor, but as we're a small team, we're all also involved in the whole running of the clinic. I'll tell you a bit more about the clinic very shortly, but just to say I'm very thankful to Fu Ming also for this opportunity and this suggestion that we can collaborate together. I hope this can be a fun project for you guys to improve your skills, deepen your skills, and for us, of course, to have a great website coming up soon. What I have here is just some slides that we also use when we present the clinic to corporate clients. I'll be running through those first with some information about the clinic itself. Then Fu Min gave me some questions, what sort of our website requirements is. Maybe some of you have already seen those answers, but I'll just briefly go through those ideas as well. That will be maybe a starting point to then ask questions or think further what to do. So, I'm actually aware that I'm standing straight in front of this screen, so you can't actually see it. Let me go like this. So, yeah, MercyMed, that was the logo. MercyMed is obviously a medical clinic. It's a private medical center, so we're not government-run, we're a private-run. Our aim is to provide high-quality medical care, and sort of the tagline is that we use evidence-based medicine. For those of you who don't know what that means, that is, yeah, Evidence-based means that we use modern medical knowledge from studies, from research, from all around the world to guide our decisions and treating the patients instead of maybe just doing things the way we have been doing them for the last 50 years. And I think one thing is also that we have international experience like myself. I'm from Switzerland, but we have local doctors and international doctors working together. MercyMed actually started, Fumming just asked me how long it's been around. The clinic itself is only three years old, but the project itself started over ten years ago actually with Jonathan our head doctor and Mahabat our director. She's a nurse from Kyrgyzstan They met together and started doing medical outreaches in different areas of Kyrgyzstan Some just one day some for a whole week or even longer actually in all the oblasts providing, going to a village, going to a rural area with less access to medical care and providing consultations, giving out medications, recommendations. And we still do that. And MercyMed sort of came out of this work because they realized it would be just good to have a place, a clinic, for one, to have a place for patients to come to for follow-up when we need more investigations. For another thing also to be a place to have like a fixed team so we can then actually go out and do these clinics so they don't need to find doctors and nurses from everywhere to go there. And also obviously to be able to have our own medical license to actually also do these things well and with good quality. So I would say mobile clinics are the heart of MercyMed but we do a lot more now. We really are just a normal medical clinic which we'll be doing, which I'll be talking about in a second. Location we are in Bishkek but a bit to the east in Tungic microdistrict, for those who know Ayu Grand or Alatu University close to there. And yeah, services I'll come to in a minute. So this is the team. I already mentioned Mahabat and Jonathan. So Mahabat is a Kyrgyz nurse, not just a nurse, she's also a director and also a doula, which will also be something important for the website, that she is a specialist also for pregnancy, pregnant women, birth and birth after birth. Dr Jonathan, our chief doctor, is also a pediatrician like myself. Then we have Dr Irina, Dr Nasekatt and Dr Nabat who are also, who work with us full-time, or not all full-time, but to work with us and have been working with us for a long time, all from Kyrgyzstan. Yeah, you can see the specialties here. Then we also have gynecologist Simbat and Narvisa who does ultrasound who are also Kyrgyz and then Jonathan, Nancy and myself and Madison are the foreigners working here. So our focus you already can see a lot of us have actually a pediatric focus. Our children I think that is the thing especially we international doctors bring. We are really focused on pediatrics but we also see all adult patients as well with our family doctors and you can already see it's quite diverse. We also have like physio and gynaecology. And yeah, so this is like what we like to say. We're family oriented, so we have one place where people can be seen, both children, teenagers, well it starts actually with pregnancy, then babies, children, teenagers, adults can all be seen in one place. Evidence-based medicine, I think, is something that is very important to us and also something that we want to train our local doctors in. That is maybe like a third reason for the clinic, not just the mobile clinics, but also to be a place where our local doctors can also receive training and profit from international expertise. And I would always say we also profit from their knowledge of the local system and I also learn a lot from the local doctors. The main focus really is family medicine and pediatrics, more the general medicine, but also gynecology, pulmonology. I myself, I'm not only a pediatrician, but also a pediatric oncologist, so I can also see oncology, hematology patients but mostly broad things. And training I've already mentioned. We also have had medical students stay with us for some weeks and would also be open or hoping to also have residents soon that we can train resident doctors. So what can we offer? What are the things that we offer? Obviously the main thing are the consultations that we see patients every day in our clinic. clinic. We are an outpatient clinic, so we don't have patients staying overnight with us. We can do some procedures, so we can give medications, we can give infusions, but we don't keep patients overnight. I think one thing that is special is that we also, because we are an international team, we can also speak different languages. Kurg is in Russian and English, obviously, but Dr. Nancy speaks Chinese, and I myself also speak German and French so that is something we can also do and yeah something that really as a family medicine and general pediatric clinic I think in addition to just like coming to us if you have like a medical problem and you need it to be solved I think we want to also be a focus on what we call preventative medicine so seeing just growth checkups development checkups we also offer checkups for women checks ups for men that are a bit more wider where we can do some lab tests and heart scans like an EKG and some lab tests. We can also do some of the medical documents and certificates, not as much as we used to. The government is sort of restricting what a private clinic can do but especially for travel and insurance purposes it's actually something we do quite often that we do documents. Good and I already mentioned a bit that we don't just have doctors we can also do some other things so what is always popular is obviously ultrasound that we have, then EKG is a heart examination. We can do vision testing and hearing testing, which is audiometry. And something which is also very thankful for is that we have a laboratory who is working with us and that we can also give 30% discount on all the lab tests for our patients. And the last thing that I already mentioned is that we also have a doula. So we also do a bit more than just medicine, maybe a bit more holistic care in terms of pregnancy and childbirth. Good, so that's to the clinic and maybe we'll do the question and answers all together. So what are the website requirements or why do we want a website? I mean we've already managed to work for three years so far, mostly through Instagram. Some of you might have already checked it, otherwise I'm sure you probably will look at our Instagram site while designing the website but we realized that it is important to have a website for the local community especially also for the international community and also for yeah for partnerships that we want to make so and the number one purpose I think is to get more patients into the door to be visible findable and also to make it as easy as possible for patients to book an appointment and the secondary purpose I think which is important especially if we're thinking like of organizations and expats is also to provide some information on the clinic, not just where can I go if I'm ill, but also what is the history, what else do we do. Target customers, I think persons once again are potential patients. Local patients at the moment are about two-thirds or three-quarters of our patients are local, so about one-quarter to a third are expats. And we would also I think with a website be more findable also for tourists travelers who need medical care if they are have a medical problem and are here and don't speak Russian or Kyrgyz then obviously we can help the second thing that we do is worked with some organizations actually somebody from our team was at outside last week to talk with the director to speak about doing like staff checkups or also offering services for you guys actually for the students and for the staff. That is something that we would hope our website would give some information for. And then also training, when we think about training students and maybe residents, also information about the clinic I think would be here. We don't need to actively look for people through the website, but it would be good if they can find some information. The demographics are very wide, both locals and expats. Age, I was thinking probably more middle-aged and above as the younger people maybe use more Instagram. Income level, we have some charitable work which we do in the outskirts which is great, which really is the heart of MercyMed but we also need to be a business and be sustainable. We are more expensive than a government clinic. In general, I think we're similar to many of the local clinics but that is already a bit of a filter of course in regards of income level. Interest in medical services and comfortable with technology, I don't think it needs to be too complicated and regards to languages I think it would be great if it was obviously in Kyrgyz and Russian and also in English. What is the unique offering of MercyMed, sort of the tagline, I think we've already seen a bit of that when I presented the clinic, I think yeah it's important that we people see yes this is a clinic where we do evidence-based medicine international expertise is something we can offer the other thing is care for the whole family in one place that can also save money for patients if they don't need to run to 100 specialists or also do a lot of maybe not always necessary examinations and I think the charitable heart of the clinic is something that we can mention that we also want to use this as a base to do our charitable work to do mobile clinics in the regions. Design, colour preferences, you've seen our logo, I also shared it with Fu Ming, I'm sure it will be available to you. I think it's not always nice if the website reflects the logo, so like the red, yellow, orange and then we also use a lot of grey in the logo. We have, I already mentioned, we have a videographer, our nurse takes a lot of pictures and also of videos so I'm hoping we can use those and not need to rely on AI generated images. Yeah, I don't know if we need to go through this. You asked me sort of like top three competitors' websites. Maybe this is information you can look at yourself and look at these websites. Yeah, great. The main sections, sorry, this is a bit of a, this slide is not very nicely structured, but basically sort of the sections I was thinking about but were very open to discuss these things and see what you think works best is obviously that the main page, home page would really have a bit of a hook, have the tagline show our unique offering and obviously make it very easy to book an appointment or also further discover the website. If possible to incorporate our Instagram feed either further down or at the first side I think would be good. Then it's probably important to have a page about what is MercyMed, more or less what I just presented to you. Then obviously it's important for patients to know what we can offer, the consultations, what doctors we have and then also the additional medical services that they can access through us. They shouldn't be able to book them, we like them to see a doctor first before they book medical services but what we offer and then that's already a bit further down but I mean obviously introducing the clinic will be the team and a short biography of the team members and not only the doctors but like also the doula and our nurse and just so them to know then I think it would be nice to have a special site for people interested in working with us as a corporate client with what we are suggesting what we have there, a site for international patients who are traveling who might be more interested either in short-term support or like letters of recommendation or insurance documents. Then something that I would be very interested if you could look into, we don't need to have that but it would be nice to have is to discuss what would be possibilities for online booking, I'll quickly come to that afterwards, and then possibly also a site on medical education, what we do, and one on the mobile clinics and charitable work we do. Those, like I said, are my suggestions. We can discuss if that makes sense or if you have better ideas, but that's sort of that. Special requirements, like, yeah, we mentioned the Instagram feed, I think is important because that is where we are most active on. And regarding online booking, would be interesting to see. We have, so there are two options I think of. The easier option would just be a form that would then generate a WhatsApp message that's sent to our receptionist. There is another site called Odoctor, I don't know if you know that, where you can also book doctors all over Bishkek, and that works the same. They can book an appointment through that site and that then generates a WhatsApp message to our receptionist and she then gets back to the patients. That's probably the easiest way. I don't know what is technically possible. We have a patient registration system called OpenEMR. This is what the logo looks like. A patient documentation system is what it is. It's an electronic medical record which is secure. That also has a scheduling tool that we use when we schedule in patients and see the patients. Something to maybe look into if there is an integration as possible. I haven't looked into that so far. Personally, I don't think it's absolutely necessary to have that. That could also be something at a later date, but just to put the idea out there. I think one of the most important things for us or for me personally is that we want the website to be up to date. So it needs to be easy for us to keep up to date as well. I don't like websites that you notice that all the information has not been changed for five years. I'd like to avoid that. Good, and I think that is almost all. Oh yeah, some technical details I just added in that our tech support gave me. you understand what this means better than I do. But yeah, we have open EMR. We have our own domain already. We have a server that we rent in Germany for security purposes. So our patient information is safe. Yeah.
+
+**[00:19:29] Student:** Good. And I think that was
+
+**[00:19:30] Dr. Lukas:** all. That's just a screenshot of the open EMR scheduling. It's not very fancy, a calendar. It's not very fancy, but just if that is something we wanted to look into at one point. Good. Cool. Yeah, that's what I prepared and now let's have some questions or answers.
+
+**[00:19:49] FuMing:** Thanks so much, Lucas. Yeah, that was a really good overview. Yeah, so maybe what we can do is just go through team by team and then give you guys an opportunity to ask any specific questions. I will, you know, I mean would it be okay if I also sent them the slides? Yes, absolutely. Yeah, I'll send you the slides as well and any additional information. Lucas did give me, like, it's like brand guideline, right? Like, not just the logo, but an explanation of how the logo should be presented. So when you guys are developing not only websites, but any marketing material, including print for companies, many times they will have either something called, like, a brand book or brand guidelines. Because, yeah, companies really care about their logo and how that logo is presented. You can't just, like, put it anywhere. Like, there are certain rules to follow. So I will definitely share that with you as well. Anyways, why don't we start with this team here. And, yeah, let's just go around what questions you have. Just any of you could just feel free to ask a question. My question is, should users be
+
+**[00:21:15] Dr. Lukas:** able to consider doctors' consequences, healthy, gender or experience? Good question. I think if we look into online booking, that would make sense. Many patients, when they book an appointment book, say they would like to be seen by a specific doctor because they either already know this doctor or are interested in something specific. But it should also be possible to book a general appointment, say just like for a pediatric consultation or an adult consultation.
+
+**[00:21:51] Student:** Any follow-up question? Do patients have access to their mental health or mental history on the website?
+
+**[00:22:02] Dr. Lukas:** No, not at this stage, not through the website.
+
+**[00:22:06] FuMing:** Maybe a third question? Let's ask people what is
+
+**[00:22:12] Student:** AI, right? You mentioned you have a website already and you've been working with them for two or years and you are developing a role and you'd like to implement AI to the subscriber.
+
+**[00:22:29] Dr. Lukas:** AI in terms of what? For
+
+**[00:22:32] Student:** example, he will be a therapist for patients, for example, or maybe he will write the recipes for patients. Okay,
+
+**[00:22:42] Dr. Lukas:** actually medical AI, not just a chatbot or anything. Okay. I mean, it's an interesting question. We haven't discussed that so far. I think I would not want to do that via the website. If in any way I think a website is too open and too unspecific and medical knowledge or medical information is too sensitive to go through a website like that.
+
+**[00:23:08] Student:** Yeah, sure. Would you like that in the future, for example, I've seen a lot of Turkish clinics, they have a lot of folks on ads that they show the results before and after. So I'm not sure about how your clinics work, do they work with really bad people, or do you want to show the results you guys promote before and after?
+
+**[00:23:33] Dr. Lukas:** It's a good thought, an interesting question. We've never done anything with images and things like that. What we've had is patient testimonies or just telling them, sharing about how they were and how they're feeling now we've had videos like that on our Instagram maybe that is the way forward to use that not necessarily just on the website but it's an interesting thought thank you
+
+**[00:23:58] Student:** yeah
+
+**[00:24:01] Dr. Lukas:** we I think we have like patient testimonial videos on our Instagram Yeah.
+
+**[00:24:07] FuMing:** Maybe next team, maybe up here you guys want to ask some questions as well.
+
+**[00:24:12] Student:** Most of our questions have been answered by the slides already. Okay. Yeah, that's fine too. And the main question left is the timeline. In what time do you expect us to finish this? And if you have someone to maintain it for the later, what do you want yourself? these features may be this? Yeah,
+
+**[00:24:36] Dr. Lukas:** it's a very good question. I think the timeline question, I'll defer to you, you sent like a suggested timeline. I think, I can't quite remember where we are in that, but I think the end result would have been end of November, early December or something. I mean, that is, feels to me pretty soon, but that would be great if that would be possible. So that is a timeline that we would be happy with. And the second question, I'm hoping, we haven't put this into signed contracts or things yet, but to work together with actually your company or the company you founded, I don't know how well you know that company, to at least support us in maintaining the website so it's not just we ourselves.
+
+**[00:25:21] FuMing:** And maybe just to follow up to your question, is there one or two people that you already know on your team who would be the person responsible? Because if, for example, they develop an interface or a system that allows someone to easily update content, you already have in mind who that end user would be responsible for doing those kind of content updates so that if they have questions, better to just ask the person who's going to be the end user.
+
+**[00:25:57] Dr. Lukas:** Yes, I think there are three people, one of them is myself, I think I'll continue to be involved, and then we have our receptionist administrator and our videographer nurse who are at the moment mainly in charge of updating the Instagram, who would also be in charge of that.
+
+**[00:26:12] FuMing:** Okay, great. Did your team have any other questions? Okay. I mean, if you guys think of other questions, maybe later, if there's time. How about back there?
+
+**[00:26:24] Student:** So, actual question is also like your question, like someone needs to update your prices, shadows, everything. So do you mean like simple admin panel, something like that?
+
+**[00:26:38] FuMing:** How do you envision the actual... I mean, I think they can design anything in terms of the interface, but do you have any preferences with regards to what would make it easier for you and your team to be able to update content? If you have any particular vision or you could say, well, it's up to you guys, just make it user-friendly. I mean, it could be specific or general.
+
+**[00:27:06] Dr. Lukas:** Yeah, I'm not sure I have enough technical knowledge to be able to answer to say how. I think I'm very open to how you'll be able to do it. Obviously, it would be great if it was user-friendly. I think we would be wanting to update text, obviously, like if we have price changes, but also be able to change images. So if we have like a promotion, sometimes we do like for all the residents in our area, we give like a 30% discount on some days, then it would be great if we could upload that as well. So not just texts, but also uploads. That is regarding pricing, I think, what we would want to be able to do ourselves. And then obviously if the team changes, so if we have a new staff member, somebody's leaving, we would like to be able to update that more or less in real time, so we just have very old information on the website. But that would then obviously also contain if we have a new staff member and do online booking by name and person and things, that we would need to discuss how can we update that in that because maybe we could update the website in terms of information but then updating the booking form would need a bit more technical background.
+
+**[00:28:12] FuMing:** Like these things would need to be synchronized with one. Yes, exactly. Okay. By the way, if there is like a team page and you know you see like the profile images and a short description, was there any intention of having each profile be clickable so that each doctor or staff member has their own page? Or is that pretty much it?
+
+**[00:28:36] Dr. Lukas:** I think it's pretty much it. It doesn't need to be like a whole... No dedicated page per staff. No dedicated page per staff. It's enough if they're like, I was thinking like very short. Name, experience, specialty, two sentence bio.
+
+**[00:28:54] Student:** I have a question about the test or diagnostics. Do we need to design the data test results? Do you get all the results?
+
+**[00:29:11] Dr. Lukas:** I would love that, but because the laboratory is not our own but is Express Plus, which is a big Kyrgyz laboratory chain, I don't think that will be possible easily. It would be great to have that, of course. But, yeah, patients go to other laboratories. Yeah, I think, yeah. I mean, the way it currently works is patients get a QR code to look up their own lab results, and then they can send them to us via WhatsApp, and then we enter them into the system. It's a bit cumbersome, but it works. But yeah, I think that would be amazing if patients could look up their own lab results via our website, but I don't know if that is possible.
+
+**[00:29:55] FuMing:** If I understand correctly, you are partnering together with a local medical lab? Yeah. It's called Express Lab. Express Lab. Express Plus. Express Plus. Express Plus, and do they themselves have a way where, like with the QR code, you can go to, I don't know, their site and get the results independent of you? Yes. Okay. Yeah. Yeah.
+
+**[00:30:24] Dr. Lukas:** Yeah. Yeah. Yeah. Yeah. way it works is they rent basically one of our rooms, so they have their lab in there, basically we send our patients to them, they get first a 30% discount or give the patients, not us, we don't keep the money, we give it to the patients and we take care basically of the accounting for them, that's the way it works. But results currently are not handled by us at all, that is by them. Directly by them? Yeah, by them.
+
+**[00:30:54] FuMing:** Yeah, does your group have any other questions? Yeah, I have a question. Oh, you do? Okay.
+
+**[00:31:00] Student:** When a new patient asks to your patient, do they know exactly the doctor or the where to go or do you need some information by asking the person whether you want to check out? like by the side you are next to the age of someone, and this age can show them, like this doctor can repeat your time, how do you decide on this?
+
+**[00:31:31] Dr. Lukas:** Yeah, I mean, I think our team is fairly small, so it is quite, it is not so complicated to find out either for us or the patient, which doctor should probably see the patient. I mean, it depends on the age of the patient, and it depends on the day they want to come, because not everybody's working every time. That would be a possibility but it does not have to be so complicated I think and I think we are also yeah we also communicate by WhatsApp and if we are unclear which doctor the patient should see then we can also communicate with them.
+
+**[00:32:04] FuMing:** Anything else from your team? Okay just a follow-up question because you mentioned about booking and that's actually one of the main pieces of functionality. How does booking happen today? What's the typical way that patients book appointments with doctors today?
+
+**[00:32:21] Dr. Lukas:** I would say there are two ways. The most common one is that they call or text us on WhatsApp and ask for an appointment. The second way is that they come by O-Doctor, which like I said is a Kyrgyz site where patients can search which kind of doctor they want to and then choose which one they want to go to and then click on the available appointment slots. So we send them actually the available appointment slots so they can then update their website. Well, we can update that ourselves on the website actually. And then that then also generates a WhatsApp message which is sent to us.
+
+**[00:32:57] FuMing:** Right. So do you have like a partnership with Odoctor? Is it like a free service for you? Do you list it on their site?
+
+**[00:33:05] Dr. Lukas:** Yeah, no, it's not free. I mean, we, they list us on their site and for every patient they send us, they get like 200 songs or 250 songs. Okay,
+
+**[00:33:15] Student:** but
+
+**[00:33:15] FuMing:** how often do you, like, you mentioned that you send them your schedule? I think we have a login. I wouldn't say real time, but if someone tries to book, they can book with confidence that the doctor knows the availability. How does that happen? We
+
+**[00:33:39] Dr. Lukas:** update it actually. We don't send them our schedule. We have a login for the site and update the schedules for... Our receptionist updates the schedule for the site, usually in the morning. Obviously, if appointments then get booked via WhatsApp, then those are not available and that is only reflected on their site if they update that. So we do occasionally have the problem that somebody books via O-doctor and then there's a problem of reconciliation. Also, there's no reconciliation and then we have a double booking, which then always leads to having to quickly ask the patient if they can come half an hour earlier or that we can and kind of give them to another doctor to make sure that things work.
+
+**[00:34:21] FuMing:** What about this open EMR? Do you also have appointments there as well?
+
+**[00:34:26] Dr. Lukas:** Well that is what we use to schedule our appointments. So all the appointments are in open EMR. Okay. But if they come, so if they come in via WhatsApp directly from the patient, the receptionist then books them into open EMR. If a WhatsApp message from O-doctor comes, she then also manually inputs it into open EMR.
+
+**[00:34:44] FuMing:** Okay. So in terms of the booking information, at the end of the day, it's stored in two places, right? Open EMR as well as O-Doctor.
+
+**[00:34:57] Dr. Lukas:** Yeah, well O-Doctor, because only a very small percent of our patients come through O-Doctor, that is, yeah, that is, not a lot of booking information comes through there. It's more like another convenient way for patients to request an appointment. It's not a booking system per se. Right.
+
+**[00:35:13] Student:** Okay, cool.
+
+**[00:35:15] FuMing:** How about this thing back there, Pascal? So,
+
+**[00:35:17] Student:** about the ODoctor. So, you mentioned the problem, and is it a possibility that you want to leave your ODoctor and get your own booking system, or simultaneously have the ODoctor and the possible booking system?
+
+**[00:35:31] Dr. Lukas:** We have that at the moment, and I think because ODoctor is the place where, I don't know if all the doctors but a lot of doctors are listed. We want to keep Odoctor because that is a way people can find us currently. And yeah, because so far it is, I mean, it's maybe five percent of our patients who book through Odoctor. Reconciliation is sometimes an issue but it's not a problem, it's just something that then needs to be done. Yeah. Obviously if we have more bookings through the website, that will have to be looked at, but I think I'm envisioning, yeah, that's something we need to work through, but I think if we ourselves are in charge of the website, then we can also update that better in real time to make sure patients don't get double-booked.
+
+**[00:36:19] FuMing:** Right. So, yeah, it's interesting. Does that mean that your receptionist then, she needs to constantly make sure O-Doctor is updated, right? So that there's no double booking, right? But if this website that they develop also has the ability to book appointments, does that add another task for the receptionist to also keep both of them synchronized? Almost treating your own website as another O-Doctor, where appointments need to be kind of up-to-date.
+
+**[00:36:56] Dr. Lukas:** Yeah. No, that's a very good point, actually. And just now my thoughts on that are, obviously it's great if you can book a specific appointment slot through a website and have that confirmed, but if that is not possible or if we say maybe that's a bit too much either for the beginning or if more and more comes in, I think it's also because our receptionist is on WhatsApp all the time. So I mean if somebody says, I would like an appointment for today, then she can reply, she can continue the conversation and say which slots are available there. It's not a necessity that they actually need to be able to book a specific time slot on the website Because that leads I mean if we envision more and more patients actually trying to book through the website That would be just to a lot of mess with reconciliation if they already booked like time slots, that's a good point
+
+**[00:37:44] FuMing:** So and maybe we can split this up into phases Maybe as you mentioned like maybe at the beginning we just keep it simple It'll be almost like a pass-through that goes to what's out but it won't reproduce the functionality of the doctor, which means there's no need to keep an updated schedule there. So these are things that you guys can keep in mind. It's good that you're thinking about how best to serve the patients, but I think realistically, we also want to make sure we deliver something, and we don't want to make the requirements so complex that it becomes not realistic for you, as students. to be able to deliver something. Because I think it's very exciting if these students can actually, you know, one of these teams can deliver a website that meets your requirements to the point where it's like, oh, okay, I think we can, like, you know, this will be, you know, the website that we go with. Anyways, your team, other questions? So, you have a domain, the service, so
+
+**[00:38:45] Student:** that means that you have the website before, or?
+
+**[00:38:48] Dr. Lukas:** No, we've just used the domain for our email, actually, and to host OpenEMR. Well, the domain we've used for our email and then server to host OpenEMR. Well, that's interesting.
+
+**[00:38:58] Student:** So
+
+**[00:38:58] FuMing:** OpenEMR is software that you have installed yourself. It's not like a third-party website that you go to their website. I think
+
+**[00:39:07] Dr. Lukas:** we've installed it ourselves. On your own server. Do you know Troy? Troy is in charge of that. Okay. If I get out of my depth, I think they'd be... Do
+
+**[00:39:17] FuMing:** you know if it's an American, European company? I think
+
+**[00:39:20] Dr. Lukas:** it is an American company, but it's being used internationally.
+
+**[00:39:25] FuMing:** That's a good question too. They have a web server, they have the domain, but there is no prior website. It is kind of a unique, which makes it even more exciting for you because you'll be the first developers of their first website.
+
+**[00:39:39] Dr. Lukas:** Maybe just to add to that what you said, I think at the moment we have nothing, so we We don't need a super complicated, fancy website. I think a simple, well-findable, good, well-updatable website is what we're looking for at the moment. Yeah.
+
+**[00:39:56] Student:** Hold on.
+
+**[00:39:57] Dr. Lukas:** Reference websites that we like or that we...
+
+**[00:40:11] Student:** Do you have no examples of what you want to see?
+
+**[00:40:15] FuMing:** Oh, yeah. So he actually, yeah, I'll send you the example. It was one of the questions that I asked him. He had a slide, but I will send you that slide, and I'll have the links, and you will see, you could use those as, you also included why you chose those websites, right? Yes. Yeah, yeah. So he added a little bit of comments like, you know, here are some websites, you know, that he's giving you as examples and the reason why, you know, there's maybe there's something there that he likes about it.
+
+**[00:40:45] Dr. Lukas:** Yeah. Yeah. And I think you may, I mean, there are like two questions. One is just general design things we like the design of just any websites. And the other is actually websites for similar companies, like for also like medical clinics, two in Kyrgyzstan, one in Uzbekistan, like competitors that I sort of shared what I like about them and what I also don't like as much about them. So I hope that's helpful. That's great.
+
+**[00:41:07] Student:** One thing about the visibility of the website. So basically, whenever you go to the website, it needs to be on Google, yes? Whenever you search it. With this, what we expect was since it will look great to the website, it won't be on the Google, but in Italy, unless you go to Google Ads and everything. So from this point, do you expect something from us or do you want to be a specialist that you might have in your team?
+
+**[00:41:40] Dr. Lukas:** Like mesh terms and things? I think you're more of the experts at that than we are at the moment. I think we're not thinking of boosting Google Ads and things. Obviously it would be great if it is findable. I mean, I think we're hoping to also use this website to be put on. For instance, currently there are several embassies in Bishkek that have our information and they've asked us to also have a website we can put on our website to link around so that we then have more links, maybe other partner organizations that we could then have our website on. So in terms of that, I'm hoping for some things. But yeah, mesh terms and things that will be good. Yeah,
+
+**[00:42:21] FuMing:** that's a great question, Oscar. And maybe a follow-up question to that one is, if you can imagine someone entering some search keywords, what would be the keywords that they would enter that you would love for you to be in the top three that comes up? So let's say for example, let's just keep it simple. I'm an expat. I come to I'm looking for a doctor that can speak English. So I'll be like, I don't know, medical, clinic, Bishkek. Would that be an example of what you want? But there must be other ones. So you don't have the answer right now. It could be because depending on his answer, you guys can make sure that those keywords are actually somewhere on the website. I can also take that
+
+**[00:43:06] Dr. Lukas:** as a follow-up also to ask in our team. I mean, I'm thinking, yeah, that would be a good example or even just like English speaking doctor or evidence based or recommended, but I can also take that into our team and ask what they think would be good keywords that should be findable.
+
+**[00:43:26] FuMing:** Yeah, great questions. Any other questions from your team?
+
+**[00:43:42] FuMing:** Yes, so three languages. This actually would impact the website content editor.
+
+**[00:43:53] Student:** Of course. Do you
+
+**[00:43:54] FuMing:** want to, because once you make a content change, you have to make it across. Across all three languages. Yeah, across. So I guess they should just keep in mind that unless you trust Google Translate, you know, like I don't know how, like you could also do the auto and you could get AI to automatically do it. Or do you want them to have an interface where for any particular section you can toggle or you could just toggle from the high level, then all the pages will be in that language and the editing will be language by language. I don't know. Do you have any specific references? No,
+
+**[00:44:32] Student:** that's good. I think I would
+
+**[00:44:34] Dr. Lukas:** have thought not Google Translate or not DeepL, so that they would actually exist as that. But I mean, if DeepL works well enough for medical information, it's getting better and better.
+
+**[00:44:52] Student:** I
+
+**[00:44:52] Dr. Lukas:** keep hearing that for Kyrgyz, it's not so good, but I don't know. I mean, yeah,
+
+**[00:44:56] FuMing:** that's the most challenging. How about up here, this team up here, do you guys have any questions? I think most of our questions will be all the ones. Any other team
+
+**[00:45:13] Student:** members? What was the main source for the customers to come before? I actually never heard of that, right? Until now, what was the main source for the customers to come? Good question, yeah.
+
+**[00:45:30] Dr. Lukas:** Instagram, yeah, WhatsApp, but you also need to find the WhatsApp number, don't you? So yeah, Instagram, Tougis. Tougis is an important one, I think. And word of mouth.
+
+**[00:45:43] FuMing:** Can you say how many patients you have? I mean, just in general, are we talking like 100,000 over the three
+
+**[00:45:53] Dr. Lukas:** years? I can't say it over the three years. I would say in a typical day, summer is maybe not the best example. Summer is very quiet. There have been days where we just had one patient for a whole day, which is of course not sustainable. But like for instance yesterday we had, so we still have room, but I think I saw four patients, the other doctors saw three, the gynecologist saw five, and we'll just sign doctor three, so that would be 15 patients, 15-20 patients in a day. Okay. Yeah. Yeah. And that is currently, that is a good day. That is a good day. We have days when we have less. Yeah.
+
+**[00:46:35] FuMing:** Yeah. So yeah, I want to give your team back there a chance. Yeah.
+
+**[00:46:54] Dr. Lukas:** Yeah, I mean Yeah, that's a valid point And I think that is one of the reasons why we have waited so long for a website because we've said well Kyrgyz people just use Turgis and Instagram and I think that is will continue to be true. I'm thinking as we look to partner with more like firms or schools that obviously for that a website is good and internationals just use websites and I mean so currently we very rarely have a patient who is a traveler for instance unless it's somebody we ourselves know but otherwise and and that is something that
+
+**[00:47:28] Student:** And the second question, what would you like for the website?
+
+**[00:47:34] Dr. Lukas:** For the website? Yeah, your timeline said end of November. Do you think that's realistic? Well, I
+
+**[00:47:43] FuMing:** think that what I was thinking was at least you would be more like the MVP and also like the finalization of the design. Because, you know, I think, I mean, for all of you to understand, like, when you develop a website with a client, it's not just you, because the client has to come up with the content. And often what happens is the content, like, 100% of the content is not ready at the very beginning.
+
+**[00:48:13] Dr. Lukas:** That's the case of the mission. Kind of like a
+
+**[00:48:15] FuMing:** collaboration. Yes. you. So, but I was thinking like it would be good if by the end of November that by that time they would have, they can present something where it's like the design and someone on your team can kind of pick, you know, which design is closest and then there will be like iteration. Yeah. Yeah. So I guess the real question actually I should have asked you before hate to put you on the spot no it's fine at first I was thinking like oh maybe we can invite Lucas back and then you know like this will be like it's like the final competition or whatever and he can choose like as a judge but then I was thinking maybe it would be more useful if I give you guys an opportunity to come up with something like it's almost like midway where it's it's not like a hundred percent but you have enough of the design there, you know, like you have some examples that you can show, and then it's almost like at the midpoint, somewhere between now and November, and then if you can come, and that will give you an opportunity to give them feedback so that they can make adjustments, so that, and then of course, they will be the final, and then And then by that point, they have that opportunity to, it's kind of like, while it is still in process for you to give feedback and give you guys still an opportunity to make adjustments based on his feedback. So that's what I was thinking. I don't know, would you be welcome to pay another visit? No, I'm very
+
+**[00:49:57] Dr. Lukas:** happy to pay another visit. I think I would also like to not just me decide obviously, but we have a team. So we'd have to discuss if maybe two or three from our team come here or if there's a way we can share, you can share the design or the midway designs that we can also look at them in our team together in MercyMed. So it would be good. Okay.
+
+**[00:50:18] FuMing:** Yeah. I'll think about it, but you guys can keep that in mind. And I think the main takeaway for me is I would like to give all of you teams an opportunity to get feedback in the middle. Because it's kind of like by the end, it's too late. Like you submit something and they don't like it, you have no chance to recover. But here, you get a chance to get started with your team. You make your best proposal based on all the feedback that you received. then you get feedback and you still have a chance to make adjustments. That's ideal from my perspective. And I think that would be ideal for our perspective as well. Right, to give you a chance
+
+**[00:50:59] Dr. Lukas:** to also see and...
+
+**[00:51:02] FuMing:** So, yeah, are there any other questions from any... yeah, Oscar?
+
+**[00:51:07] Student:** How do we know the translation of everything and some terms, how do we know the purpose and the Russian terminology of these things? Good question.
+
+**[00:51:39] Dr. Lukas:** I think, so I'm just thinking out loud here. I'm thinking, I mean, yeah, you're not medical people, but you know how to use translators and you do have some knowledge. So I think most things you'll probably be fairly good at doing translations for. But there might be words or specific medical terms, even something like evidence-based medicine or something like that, that you would like to know specifically how would you like this to be translated. And I think if you can collect these things and either send them to me directly or via you to me, then we can also see with our Kyrgyz speakers, because obviously I'm not a Kyrgyz speaker, how we would want this translated and then we can give you that.
+
+**[00:52:19] FuMing:** Because you mentioned evidence-based medicine? Because he mentioned evidence-based medicine a few times in his presentation, can you just give a brief description, like why is that special, or what is it and what's unique about it? And are not all medical clinics using evidence-based medicine? Is there something unique that you want to like...
+
+**[00:52:42] Dr. Lukas:** Yeah, I think evidence-based medicine is a term that is coming from the West and is maybe not as much used more in the Soviet style of medicine. That is why we keep talking about it, but I think it is the way forward. And I mean, I think a lot of Kurgis medical clinics are doing evidence-based medicine. In a sense, evidence-based medicine means that our medical decisions are based on evidence. And by evidence, we mean research, we mean international experiences, or really research, black and white. and the difference is what we call, one is experience-based medicine, that is just, well, this is the way we've always been doing it. So we might have learned something in med school, in my case, 15 years ago, in maybe my old professor's case, 50 years ago, and that's the way he's always been doing it. That is like experience-based medicine, but we know that medical knowledge is growing, and so we need to do things differently. The other way, which sometimes and even worse, it's called eminence-based medicine, where there's this, once again, this professor with gray hairs in the university who says, you need to do this this way, and I, as a young doctor, need to do it this way, and I'm not allowed to think myself. And that is sort of the idea behind it. And, I mean, it is important to still state that I think the Kyrgyz system sometimes does things differently from us in the West, but that does not necessarily always mean it is wrong and not evidence-based. They might have other evidence or other ways of doing things that are just as good. But what we try to avoid is just doing, I mean, this may sound a bit critical, but one thing I've noticed is that very often doctors here will prescribe many, many, many medications and vitamins and other things that if you look then at the studies, you see maybe they don't have so much effect. They might not harm the patient, but they might not be terribly beneficial. And something we would like to do is, because we know healthcare is expensive, not make our patients have to pay unnecessary money for a treatment that is maybe not necessary. So that's the idea behind it when we say evidence-based medicine.
+
+**[00:54:59] FuMing:** Okay. Any other questions? If we have, since we have a few minutes, would it be okay, Lucas, if actually we actually give them an opportunity to look at the sample websites? Yeah, absolutely. Can I just comment? Yeah, sure.
+
+**[00:55:16] Dr. Lukas:** There's one thing I remember I forgot to say when we think about booking and even if it's like a WhatsApp message, sort of the minimal data set we need to be able to do a booking, might be important, is name and surname, familia, EMEA, date of birth, and a contact number. So if they enter anything into a form, those would be the mandatory fields basically. Address is nice to have, but the main things are...
+
+**[00:55:42] Student:** So that means after they move, they can reach out and then make the point. Yes,
+
+**[00:55:52] Dr. Lukas:** yeah, yeah. I think that's maybe the easiest way to do it.
+
+**[00:55:56] FuMing:** Do you guys use WhatsApp Business? You have a business account? Yes. Alright, so yeah, these pages are loading. You have three... Yeah.
+
+**[00:56:07] Dr. Lukas:** Sorry? Mobile Phoenix, right. Very good question. So we have some material that's mostly medications and also some lab tests that we have bought ourselves or have been donated to us. And then as a team, we take our car full of medications and we're usually, yeah, maybe four or five doctors, a nurse, a receptionist, somebody doing the pharmacy, and go to a village that has invited us. And there's either the health centre there or there might be a fellowship or something that have invited us and they will take care that we have a place to do the clinic and make care of patients. Know that we have patients and we come basically as our team and then do the clinic either for one day or for several days.
+
+**[00:56:58] Student:** So a patient is likely where you would go?
+
+**[00:57:01] Dr. Lukas:** Yes, usually the way it works is that we have some relationships and somebody knows somebody who says, oh, in my village, we really need, or it's very beneficial for our village to have a mobile clinic for a team to come, and so we then get invited to a place.
+
+**[00:57:22] FuMing:** Any other questions? I just want to give you guys an example. I was just explaining to them how today one of the topics was about basically a list of repeated items. And they can be oriented horizontally or vertically. And I was trying to make the point to them that generally speaking, you don't want things to be cut off. But here it's very subtle. If you don't see this, oh actually, you know what? I think this is a bug. So what I want to illustrate to you guys is... Like this one? Yeah, see that? Oh, it's up there. Yeah, see that? I missed it. So I feel like this is kind of poor usability. If you don't see these little arrows up here, I'm trying to scroll to the right. I cannot see. I was thinking like, how do I get to see, you know, the other doctors on this, on this side of the screen. But as Lucas pointed out, you have to click on these little arrows up here. But if you don't see it, then it feels like it's cropped. And you know, that's not usually the best experience. I mean I was testing to see if, this is an example of a responsive website, but sometimes, you know, like this is the mobile view, you could see how the menu has collapsed into this hamburger icon, but if you have a lot of space, you get the full menu, right? So anyways, I'm going to let you just comment a little bit about on each one of these websites. So I have all three websites here. And yeah, feel free to just click around and just why did you choose these websites or is there something negative or positive that you'd like to highlight so that they get an idea for like your taste and...
+
+**[00:59:06] Dr. Lukas:** Yeah, sure. So these are like the three websites that are also medical clinics. This first one, Malish, is a very big medical clinic and it's got a very big website. And I think the first thing I said, we don't need such a thing with all this functionality, all this stuff. But regards of design, I think what I quite like about this one is, yeah, it looks appealing. There's like the menu up here that you can quickly change things. These have got very nice things that you can look up your results and you can do an online Zappis. You can actually book. They have a good book. I don't know how it will then work down the road, of course, but they have a booking system, which is impressive because it can do exactly what you mentioned with filtering by specialty and by gender and by age of experience here. What else did I like? What I didn't like so much is, yeah, it feels pretty overwhelming quickly and I mean, I think it's always a trade-off. You want a website to be able to easy navigatable, but then you often have the same information in different places which is something something I don't like so much and yeah this with the little arrows do they actually work because at home I tried the arrows don't actually work oh no they do they do okay good yeah that is maybe another thing that we can think about I haven't talked about here they also have like like like on Tougas and they can have they can leave like reviews that's also something nice not necessary something nice absolutely necessary but something as nice half but I think what really works very well on this website is is the booking the booking system and like quite clear who is here and then when you click on it you can sort of work your way through you put it into your it's like a shopping cart I think yeah wait what happened Oh, did I? Ah, I emptied it. Okay. And then how do you go on? Well, maybe that's not so good if I can't get on from here. Okay, so that's that one.
+
+**[01:01:19] Student:** Oh,
+
+**[01:01:19] FuMing:** by the way, what's that? Is this medical clinic aimed for children?
+
+**[01:01:23] Student:** Yes. Okay.
+
+**[01:01:24] Dr. Lukas:** Because
+
+**[01:01:24] FuMing:** it's very kiddy. Yeah,
+
+**[01:01:26] Dr. Lukas:** it's called, yeah. Oh, and that was the other thing. I quite like that as well. Yours is general. Ours are general, but we have a lot of feeds as well. So, yeah, yeah. No malicious, just things. This one is a website, a clinic in Uzbekistan that we also, we don't work together with them, but I know Jonathan knows these guys well. I mean, they also talk about evidence-based medicine and everything. What I did not like so much about this website is, I mean, yeah, it's got a colour scheme and everything, but I didn't understand actually what is this hospital called or this clinic actually called. Because here it says Lucas Clinic, here it says All Nations Friendship Hospital, up here it says Green Lucas which is the name of the site and it's like, okay. What is this actually? What is actually the brand or what is this? And is it a clinic or is it a hospital or is it just something green? I don't even quite know. So it's always, always, it is. And yeah, here as well there is a bit of a mix of English and Russian, even though up here you can choose English or Russian. So yeah, that's maybe also something. Otherwise I think what I quite liked is that it's, yeah, it is like, it's like a one-page website, you just scroll through it, but the things you scroll through show sort of maybe bit of the things that I was also thinking there's a bit about what they offer the unique offering the values there's a bit about the story there's a bit about the doctors so just in terms of what they have I think is a bit similar to what we're looking for
+
+**[01:03:05] Student:** no not necessarily no no
+
+**[01:03:10] Dr. Lukas:** no no good and so fairly simple but like in terms of of what they what the information they have I think they've got the important thing but like I said that beginning especially It's very confusing. Do you
+
+**[01:03:24] FuMing:** like the bold text? Do you like the bold fonts? No. Okay. Because I don't
+
+**[01:03:34] Student:** know, it just seems very bold. Yeah, no, no. I
+
+**[01:03:36] Dr. Lukas:** prefer more like… Okay. Okay. And then maybe the last one is Eldic. Eldic is like the other… Well, we work together. A lot of us have worked in Eldic. They're not like we are like competitors in a way, but we're also friends. So I don't want to sort of friend friends friend friends Exactly exactly, but LDIC is the other very similar clinic in Bishkek that also has expat and local doctors And as like similar things well, I quite like their landing page sort of once again with the values That you can choose what you want here. I think it's also one page website actually and But what I don't like so much about Eldic is that things are very old. I mean, you don't notice that necessarily because you don't know the people, but a lot of these people are not working with Eldic anymore. And, yeah, they do sort of show what they have, but it's not up to date, and they don't have anything about... They have something about evidence-based medicine, if you want to learn more, but they don't really have anything about the team or as much about the history that I was thinking of.
+
+**[01:04:45] Student:** and yeah.
+
+**[01:04:50] Dr. Lukas:** Yeah, they do have meet the staff, but that's just then like a text too.
+
+**[01:04:54] Student:** Right, right.
+
+**[01:04:55] FuMing:** Can I ask you one quick question about your logo? So let's see if we go here. This one. I just want to take a look at the logo. All right, here's the logo here. So you mentioned you like light background, right? So would you imagine that you could have, for example, you could have this in the top left corner, something like this against a light background or a white background?
+
+**[01:05:30] Dr. Lukas:** Yeah, I think it shows well even though they're lighter colors against a white background. Okay.
+
+**[01:05:37] FuMing:** And would you like to see, would it be okay for them to consider using any, some of these colors as like secondary, like, you know, for, I guess like accent colors and things like that? Would it be, I don't know, maybe red or orange? Like, do you have any like preference in terms of, if there were an accent color, like a secondary color, which Which one of these would you prefer? And this could be used for buttons and stuff like that?
+
+**[01:06:09] Dr. Lukas:** Yeah, absolutely. Please use our logo and the colors, I think. I think I would prefer not just the brightest red, but something going towards the orange. Okay.
+
+**[01:06:19] Student:** All right. Okay.
+
+**[01:06:21] FuMing:** Let's see. Yeah, any other questions based on these websites? You
+
+**[01:06:27] Student:** said you don't like the old font. Does it mean you're a bit more weird, but at the same time you want a bit softer with this?
+
+**[01:06:38] Dr. Lukas:** Yeah. Did I mention I don't like the old font? Bold. Bold.
+
+**[01:06:43] Student:** Bold. Yeah. With your logo and the font of your logo.
+
+**[01:06:51] Dr. Lukas:** It is quite bold, you mean? Yeah, that's a good point. I mean, I think I'm open. I personally like finer fonts and more maybe modern fonts, not just Arial and Times New Roman, of course. But, I mean, if you can play a bit with bold fonts and other fonts, absolutely.
+
+**[01:07:10] FuMing:** Right. Maybe the last question I have is, and also this is something that you guys can also keep in mind. So, I guess the thing about websites is people have very little attention and they might actually spend like a millisecond before they go off to the next thing. So one of the things that I was going to teach them later was basically this concept of like there should be like a hero image, like something, you know, something that's predominant that makes that first impression, but there might also be like a hero message. So in your case, what would you consider to be like the highest priority message? If you had one shot, it can't be like an essay, it's only like a few words, like you know something like this, like do you have something like that that they could use and make it really prominent so that it's front and center and also, so it's the message and also the image. If there were a hero image, what would you want that image to, what would be the subject of that image I guess? And you don't have to answer right now, but just to think about a bit of thought. because it's all about first impression. You come to the site, you want to be super clear in terms of whatever you want to communicate to your audience. I forgot to ask that. But anyways, I know we're out of time, but let's give Lucas a hand for just visiting us and sharing with us more about the website. So yeah, thank you so much for coming to you. We appreciate it. And yeah, we look forward to working with you. And if you are open to follow-up questions, of course, they can forward me their questions and I'll be the liaison and try to filter it. And I don't want to bombard you too much, but I'm sure there might be questions that come up. For you guys, just keep in mind, assignment number five is due next Wednesday. And also with regards to this project, we'll spend time during the lab time next week. So don't worry. You guys don't have to do anything. Of course, if you want to be thinking about it or chatting with your teams, like if you already have ideas, feel free to do whatever. But I'll give you guys more guidance next Wednesday during the lab time. But, yeah, anyways, thanks once again, Lucas. Thank you. I'll see all of you guys next week. I do have a question about the teamwork. So will we be working in teams to make the website? It'll be collaborative. You have to split it up. Like different sections of the website will be split up between them. It's up to you like how you want to divide the work. But yeah. It should be a team effort.
+
+**[01:10:09] FuMing:** Are you usually at the clinic most days or certain days? Yeah, certain days, about three days a week.
+
+**[01:10:17] Dr. Lukas:** Today was my off days. Okay.
+
+**[01:10:20] Student:** See you then. Thank you once again. Oh, thank you.
+
+**[01:10:29] FuMing:** Yeah, fun to be here. Thanks, especially for all the questions. Can I have one
+
+**[01:10:32] Student:** question? I was curious, how do you process and store the data of the clients? In this open EMR system? Do you have data engineer, data analytics engineer?
+
+**[01:10:49] Dr. Lukas:** So we store it in this system, this open EMR, that's what it is for. I'm guessing we physically store it actually on that server in Germany. Yes. Well, not physically. Currently we don't do a lot with the data. So, I mean, we have, I don't know, Troy...
+
+**[01:11:09] Student:** You don't have so much data, but you have server. Like, who usually works with the data?
+
+**[01:11:23] Dr. Lukas:** We work with the data in so far as that we sometimes look back and look up patients, or if a patient comes again, we see what he had last time, or we look at lab results and things like that. Currently, nobody else works with the data. And we are also, we can't, I mean, we can use it for our own statistics, obviously, to see how many patients and things we have had, some things we can do, but we could not do research with the data without the patient's permission, because this is sensitive medical information. This is not something that we can share. I mean, there's a difference between the actual medical information and just like the demographic data and then just the anonymized data but yeah I mean currently we only use it for our own medical purposes basically.
+
+**[01:12:08] FuMing:** What aspect of data are you interested in? Why did you answer that?
+
+**[01:12:15] Student:** I'm a data engineer. I get raw data and I create my stories. I can create, for example, how to explain it? Digumers, layers? How do you explain my job? I get raw data, I have different tables, for example, table of customers, table of orders, something like that. And I have to join them and create one table to show you, to make it easily readable, something like that. To put it simply.
+
+**[01:13:04] FuMing:** For example, you could create custom reports based on data that's stored in different tables. You could basically join them.
+
+**[01:13:15] Student:** I can create a large slide where for the last years, how many customers visited, for example, something like that.
+
+**[01:13:27] FuMing:** Do you keep track of, for example... On
+
+**[01:13:31] Student:** your slide it was written that you have server in Germany, like Apache and MySQL. I know this kind of tool, so that's why I was interested.
+
+**[01:13:43] Dr. Lukas:** Yeah, yeah, yeah. To be honest, we don't do a lot with the data at the moment. We probably could do more if it does not like in terms of non-sensitive medical information. Currently we just use it, well we do, I think we usually do it once a year, pull out the information, how many patients or consultations, just for some statistics, but we don't do anything more sophisticated. I was just interested to know. That's a good question. Yeah, because I think that is something that an EMR system allows, I mean you can do things with data. I've never heard
+
+**[01:14:18] Student:** of EMR systems. What is
+
+**[01:14:19] Dr. Lukas:** that? Electric, electronic medical record. Does
+
+**[01:14:23] FuMing:** it also serve as like your CRM, like as a business, contact relationship, customer relationship management? Not really.
+
+**[01:14:32] Student:** It's really medical. It's
+
+**[01:14:35] Dr. Lukas:** mostly for documentation and scheduling. And even so, we only use like a tiny part of the actual program, the software could do it. Do you have any software
+
+**[01:14:44] FuMing:** where if patients needed a follow-up, so the software would kind of remind you, saying, oh, you would have that. Yeah, that's one thing you can do. If I see a patient,
+
+**[01:14:57] Dr. Lukas:** I can either immediately schedule a follow-up appointment or if it's got something like a recall board, then I can say, these patients need to recall in the next six months and then we have like a board that shows like because we don't give appointments six months in advance usually and then we can then close to the time see which patients need to be scheduled for this next month for instance.
+
+**[01:15:21] FuMing:** Is it pretty user friendly? No. I have worked with a lot more user friendly ones.
+
+**[01:15:29] Dr. Lukas:** No it is pretty complicated and it's also very I mean it is open source so everything is available, but you need to be a developer to change anything. I've tried because I've worked with other systems that were easier to manipulate, but it's complicated and it's not a terrible use for anything. If we know what we want to do and the things we need to do, we can do with it easily because we know how to do it, but it's not a great software. But it's working. It's also what LDQ uses, so we couldn't see every work together, but it's not something we're doing at the moment.
+
+**[01:16:06] Student:** Okay. Nice.
+
+**[01:16:07] FuMing:** Did you have any other questions?
+
+**[01:16:09] Student:** No, I don't.
+
+**[01:16:11] FuMing:** Are you currently doing any kind of data engineering work? Do you have a job?
+
+**[01:16:15] Student:** Do you remember I was talking about I won the grant on to my data engineering, it's still going on. Oh, it's still going on. Okay, nice. So we're creating our final project.
+
+**[01:16:25] FuMing:** Are you doing, is it kind of research based, research oriented or is it?
+
+**[01:16:31] Student:** Yes, kind of.
+
+**[01:16:32] FuMing:** Is it like in partnership with an organization?
+
+**[01:16:35] Student:** No, like my job is just, no, no, no, not like that. Like we just take API from like open, like for example, my project is about, how do you say it in English? which will put data, what is it, in relation? Okay.
+
+**[01:16:53] FuMing:** But anyways, it's data that's publicly available. Yes, data is publicly available and I don't know about that. Okay, makes sense. Okay, cool. All right. Thank you. We'll see you. Okay, have a good day. How do you? Yeah. Yeah, so, yeah, and also, you know,
+
+**[01:17:20] FuMing:** Thank you.
+
+**[01:17:50] FuMing:** Thank you.
+
+**[01:18:20] FuMing:** Thank you.
+
+**[01:18:50] FuMing:** Thank you.
+
+**[01:19:20] FuMing:** Thank you.
+
+**[01:19:50] FuMing:** Thank you.
+
+**[01:20:20] FuMing:** Thank you.
+
+**[01:20:50] FuMing:** Thank you.
+
+**[01:21:20] FuMing:** Thank you.
+
+**[01:21:50] FuMing:** Thank you.
+
+**[01:22:20] FuMing:** Thank you.
+
+**[01:22:50] FuMing:** Thank you.
+
+**[01:23:20] FuMing:** Thank you.
+
+**[01:23:50] FuMing:** Thank you.
+
+**[01:24:20] FuMing:** Thank you.
+
+**[01:24:50] FuMing:** Thank you.
+
+**[01:25:20] FuMing:** Thank you.
+
+**[01:25:50] FuMing:** Thank you.
+
+**[01:26:20] FuMing:** Thank you.
+
+**[01:26:50] FuMing:** Thank you.
+
+**[01:27:20] FuMing:** Thank you.
+
+**[01:27:50] FuMing:** Thank you.
+
+**[01:28:20] FuMing:** Thank you.
+
+**[01:28:50] FuMing:** Thank you.

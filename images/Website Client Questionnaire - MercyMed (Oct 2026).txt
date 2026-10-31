@@ -1,0 +1,88 @@
+Website Client Questionnaire
+prepared by FuMing Young
+
+To help us design a website which fulfills the needs and preferences of your business, please take some time and complete the
+following questionnaire.
+1.​ Goal & Purpose. What is the #1 goal and purpose for the website? If it is to communicate something, what is the main
+message? If it is for the website visitor to perform an action (for example, pick up the phone and call, make an order,
+make online payment, etc.)...what is the main action?​
+#1 goal: bring more patients into the door, by being findable and informative for somebody looking for medical services,
+and then booking an appointment to be seen. ​
+The other very important purpose is to provide information about the clinic and the work we do, especially organisations
+(embassies, schools, companies) looking to partner with us (and bring us patients).​
+​
+2.​ Design Description. Using 3 adjectives, how would you describe your preferred design/style for the website? (for
+example: professional, simple, elegant, minimalistic, decorative, retro, luxurious, efficient, uncluttered, dark, classic,
+flowery, artistic, etc.)​
+​
+Professional. Informative. Uncluttered.​
+3.​ Original Logo Artwork. Could you please send me a high-quality version of the logo? (It would be best to get the original
+graphic from the logo designer which should be in a vector-based format such as Adobe Illustrator (.ai) or .eps or .svg.)​
+I will share the Jpeg versions in the cha. If you need something different we could contact our logo designer, Pasha +996
+771 317 913​
+4.​ Color Preferences. In general, would you prefer a dark background website or a light background website? Also, please
+identify the main color you’d like to see on the website and the secondary color. (Please submit images which include
+these colors so we know precisely which color hue/tone, etc.)​
+​
+I personally prefer a light background. Main colour would be yellow-orange (as in the logo). Secondary color grey (also
+as in logo)​
+5.​ Main Sections. Please list the main sections of your website (for example, "Home", "About", "Products", "Services",
+"Blog", "Contact")​
+​
+Home - tagline, buttons to book consultation and further discover website. Maybe insta feed.
+About - brief overview, history, what we bring to KG
+Medical Services - consultations, labs etc
+For corporate clients
+Medical education
+Team - short bio of team members (not only doctors)
+Mobile clinics/charitable work
+Contact​
+6.​ Target Customer. Who is your target customer (demographic, income-level, age, interest, comfort level with
+technology)? Please describe the main types of website visitors you expect and would like the website to attract. (Please
+also include which languages the website must support)​
+​
+1) potential patients - people with a medical complaint looking for a doctor. Locals, tourists/travellers, expats residing in
+Bishkek
+2) organisations (schools, companies, embassies) looking for a clinic to collaborate with for regular medical
+examinations (we offer yearly staff-checkups, special deals for students etc)
+3) Hospitals, medical schools and residents and students: to collaborate with us in training residents and medical
+students.
+→ so, very broad target customers. Demographic - locals and expats. Age - probably more middle-aged and above, as
+younger ppl use instagram. Income-level: middle-class and higher due to our pricing. Interest - in medical services.
+
+Comfort level with technology - low-medium. Languages - english, kyrgyz and russian​
+7.​ Top 3 Competitors’ Websites. Please list the websites for your top 3 competitors and describe briefly what you like
+about their websites and what you don't like about them.​
+eldikfmc.com: + approachable medical information (directed at you). - landing page too much text, quite cluttered, not
+up to date (many of the pictures are very old), no information on the team or history
+greenlukas.uz: + info on team with pictures. Feels less overwhelming at first site. - unclear if hospital or clinic? Several
+names (green lukas vs lukas clinic vs all friendship hospital - what is it)? In total very little info on site, and what is is
+quite confusing.
+malish.kg + informative, including history and FAQ section. possibility to book consultation online - services section
+overwhelming​
+​
+8.​ Unique Offering. Why would a website visitor want to become your customer rather than one of your competitors?
+(What is something unique which your business offers which your competitors do not?​
+​
+Evidence-based and international medicine. Charitable heart of the clinic - mobile clinics in the regions.​
+9.​ Top 3 Websites. Please list top 3 websites which you like from a style and design perspective (they do NOT need to be in
+the same industry as your website...because we're only interested to find out your style preferences). Please briefly
+describe what you like and don't like for each of the 3 websites.​
+10.​ https://stripe.com/en-ch
+https://www.kinderpraxis-emme.ch/ - this is a swiss medical center. I like the start page with the quote and the kids
+drawing, and the way the menu at the top that is always there. I don’t like Arial font​
+https://charlesmcdonaldmusic.com/# - I found this while researching carrd. I like the simple layout and unclutterdness
+with still a lot of pages to go to, and the menu that always leads back
+https://www.freddy11.ch/ - I like the simplicity of the design, I do not like the animated pictures at the top of the
+separate pages
+11.​ Detailed Requirements for Special Functionality. (This could include online payments, shopping cart, membership,
+password-protected content, online booking/scheduling, etc.)
+​
+​
+​
+
+Instagram feed would be good as we are most active there
+If possible to explore online booking system and how complicated that would be
+Good ways to keep it up to date - team changes, price changes, new photos etc
+
+
